@@ -6,6 +6,7 @@ ___
 * Location: Tashkent, Uzbekistan 
 * Phone: +998 901774475
 * E-mail: svetlana.rozhkova23@gmail.com
+* Discord: [Svetlana#7502](https://discordapp.com/users/787989084068380673)
 * Telegram: [svetlana_r005](https://t.me/svetlana_r005)
 * LinkedIn: [Svetlana Rozhkova](https://www.linkedin.com/in/svetlana-rozhkova-8b998a266/)
 * Head hunter: [Svetlana Rozhkova](https://tashkent.hh.uz/resume/fa23c6f1ff08bd5c6a0039ed1f585561756d36)
@@ -65,3 +66,17 @@ const mergeArrays = (arr1, arr2) => {
 ```
 ---
 ###Experience
+### Vigrom Corp, product company
+####November 2018 - october 2022 (4 years)
+
+* HTML: layout artist:  3 years
+* Junior Frontend developer, vue.js: 1 year
+* Doing landing pages
+* Adding features
+
+###HTML academy  
+####May 2020 - may 2021 (1 year 1 month):
+HTML and CSS mentor. 
+* Training and counseling of students
+* Conducting a code review
+---
