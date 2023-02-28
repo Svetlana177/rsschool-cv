@@ -26,7 +26,6 @@ ___
 * Vue js (Basic)
 * Git
 * Experience with ESLint
-* Figma 
 * Semantic HTML
 * BEM (naming and structure)
 * Perfect-pixel
@@ -36,6 +35,18 @@ ___
 * Your truck
 * Code review
 
+Graphic editors:
+* Figma
+* Adobe Photoshop
+* Avocode
+* Sketch
+* Zeplin
+
+Code editors:
+* WebStorm
+* Visual Studio Code
+* Sublime
+* Atom
 ---
 
 ###Code example
@@ -53,3 +64,4 @@ const mergeArrays = (arr1, arr2) => {
 }
 ```
 ---
+###Experience
