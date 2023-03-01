@@ -108,6 +108,8 @@ HTML and CSS mentor.
 * Hexlet school: [javascript (in progress...)](https://ru.hexlet.io/u/pro_svet)
 * HTML Academy [achievements page](https://htmlacademy.ru/profile/svetlana_r)
 
+---
+
 ### Сertificates
 
 * HTML Academy [HTML&CSS certificate, level 1](https://assets.htmlacademy.ru/certificates/intensive/87/441669.pdf?1537527704&_ga=2.198470575.1608082118.1661794698-37578159.1604663947)
@@ -119,7 +121,7 @@ HTML and CSS mentor.
 ### Languages
 
 * Russian - native speaker
-* English - Pre Intermediate (A2), B1 in progress.  
+* English - Pre-Intermediate (A2), B1 in progress.  
   [StreamLine Language School English test result:](https://test.str.by/login/index.php) Pre-Intermediate (CEFR A2+).  
   [EPAM English test result:](https://test.str.by/login/index.php) A2  
   Learning Intermediate level English at [englishshow school](https://englishshow.online) at this moment.
