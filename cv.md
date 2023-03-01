@@ -67,7 +67,7 @@ Code editors:
 
 ### My projects
 * Java script: [Brain games](https://github.com/Svetlana177/Brain-games)
-* Java script [kekstagram](https://github.com/Svetlana177/441669-kekstagram-24)
+* Java script [Kekstagram](https://github.com/Svetlana177/441669-kekstagram-24)
 * HTML&CSS: [Cat energy](https://github.com/Svetlana177/441669-cat-energy-16)
 
 ### Code example
