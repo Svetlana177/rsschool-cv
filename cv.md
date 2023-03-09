@@ -23,6 +23,7 @@ I have experience in HTML, CSS and JS (Basic).
 Worked in the office and remotely.  
 Currently improving my JavaScript skills, that's why I'm studying to RS School at this moment.  
 Learning English.
+
 ___
 
 ### Skills
