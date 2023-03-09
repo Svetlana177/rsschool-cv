@@ -13,6 +13,7 @@
 * LinkedIn: [Svetlana Rozhkova](https://www.linkedin.com/in/svetlana-rozhkova-8b998a266/)
 * Head hunter: [Svetlana Rozhkova](https://tashkent.hh.uz/resume/fa23c6f1ff08bd5c6a0039ed1f585561756d36)
 * GitHub: [Svelana177](https://github.com/Svetlana177)
+
 ___
 
 ### About me
@@ -61,6 +62,8 @@ Code editors:
 * Also, can work alone
 * Go to the goal
 * Always improve my skills
+
+
 ---
 
 ### My projects
