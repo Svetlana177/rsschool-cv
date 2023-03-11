@@ -1,3 +1,4 @@
+
 # rsschool-cv 
 
 
@@ -62,8 +63,6 @@ Code editors:
 * Also, can work alone
 * Go to the goal
 * Always improve my skills
-
-
 ---
 
 ### My projects

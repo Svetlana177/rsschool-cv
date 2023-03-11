@@ -1,5 +1,3 @@
 # rsschool-cv
 
-[rsschool-cv](https://svetlana177.github.io/rsschool-cv/cv) 
-
-
+[rsschool-cv-html](https://Svetlana177.github.io/rsschool-cv/)
